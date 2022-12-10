@@ -7,3 +7,4 @@ foreach ($fruits as $key => $value) {
     echo $key . '  =      ' . $value . '</br>';
 }
 print_r($fruits);
+?>
